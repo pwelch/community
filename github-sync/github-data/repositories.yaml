@@ -1741,12 +1741,10 @@ repositories:
     licenseTemplate: ""
     topics: []
     collaborators:
-      - username: codysoyland
-        permission: push
+      - username: malancas
+        permission: triage
       - username: haydentherapper
         permission: admin
-      - username: malancas
-        permission: push
     teams:
       - name: timestamp-codeowners
         id: 6735686
